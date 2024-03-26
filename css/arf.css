@@ -1,0 +1,73 @@
+body {
+  background-color: #439fd5;
+  font-size: 14px;
+  font-family: "Helvetica Neue", Helvetica;
+  color: #000;
+}
+
+#body {
+  margin: 0 auto;
+  position: relative;
+}
+
+#header {
+  font-size: 40px;
+  font-weight: bold;
+  top: 20px;
+  text-align: center;
+}
+
+.legend {
+  position: absolute;
+  top: 0px;
+  right: 0;
+  width: 330px;
+  font-size: 11px;
+  color: #000;
+}
+
+.node {
+  cursor: pointer;
+}
+
+.node circle {
+  cursor: pointer;
+  fill: #fff;
+  stroke: steelblue;
+  stroke-width: 1.5px;
+}
+
+.node text {
+  font-size: 16px;
+  fill: rgb(0, 0, 0);
+}
+
+path.link {
+  fill: none;
+  stroke: #ccc;
+  stroke-width: 1px;
+}
+
+
+/* Header styles */
+header {
+  background-color: #e10101;
+  color: #fff;
+  padding: 20px 0;
+}
+
+.container {
+  max-width: 1200px;
+  margin: 0 auto;
+  text-align: center;
+}
+
+header h1 {
+  margin: 0;
+  font-size: 2.5em;
+}
+
+header p {
+  margin: 0;
+  font-size: 1.2em;
+}
