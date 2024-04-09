@@ -113,35 +113,39 @@
         "type": "url",
         "url": "https://www.shodan.io/"
       }],
-      "name": "Inportant Sites",
+      "name": "Web-Tools",
       "type": "folder"
     },{
       "children": [{
         "children": [
         
         {
-          "name": "Nessus",
+          "name": "Hack the box",
           "type": "url",
-          "url": "https://www.tenable.com/products/nessus/nessus-essentials"
+          "url": "https://www.hackthebox.com/"
+        },{
+          "name": "vulnmachines",
+          "type": "url",
+          "url": "https://vulnmachines.com/"
         },
         {
-          "name": "BurpSuit",
+          "name": "PentesterLab",
           "type": "url",
-          "url": "https://portswigger.net/burp/communitydownload"
+          "url": "https://pentesterlab.com/"
         }],
         "name": "websit for pratice",
         "type": "folder"
       },{
         "children": [
         {
-          "name": "COdeRed by EC-Council",
+          "name": "CodeRed by EC-Council",
           "type": "url",
           "url": "https://codered.eccouncil.org/"
         },
         {
-          "name": "BurpSuit",
+          "name": "Ethical Hacking video biginners (youtube)",
           "type": "url",
-          "url": "https://portswigger.net/burp/communitydownload"
+          "url": "https://www.youtube.com/watch?v=fNzpcB7ODxQ&t=1s"
         }],
         "name": "free courses/youtube video",
         "type": "folder"
@@ -150,16 +154,11 @@
         "name": "CYBERSECURITY CAREER PATHWAY",
         "type": "url",
         "url": "https://www.cyberseek.org/pathway.html"
-      },
-      {
-        "name": "Nessus",
-        "type": "url",
-        "url": "https://www.tenable.com/products/nessus/nessus-essentials"
       }],
       "name": "Eductional content",
       "type": "folder"
     }],
-    "name": "Filtered by Ankit",
+    "name": "Ethical Content",
     "type": "folder"
   
   }
